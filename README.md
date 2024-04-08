@@ -18,12 +18,12 @@ DRONA Chatbot is an interactive chatbot built using Streamlit and NEXA's **DRONA
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/hardikjp7/GeminiPro-ChatBot.git
+   git clone https://github.com/hardikjp7/NEXA-DRONA.git
    ```
 
 2. **Navigate to Project Directory:**
    ```bash
-   cd GeminiPro-ChatBot
+   cd NEXA-DRONA
    ```
 
 3. **Install Dependencies:**
@@ -41,7 +41,7 @@ DRONA Chatbot is an interactive chatbot built using Streamlit and NEXA's **DRONA
    ```
 
 6. **Open the Web Browser:**
-   Once the Streamlit app is running, open your web browser and go to `http://localhost:8501` to access the Gemini-Pro Chatbot.
+   Once the Streamlit app is running, open your web browser and go to `http://localhost:8501` to access the DRONA Chatbot.
 
 
 
