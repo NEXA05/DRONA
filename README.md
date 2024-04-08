@@ -18,7 +18,7 @@ DRONA Chatbot is an interactive chatbot built using Streamlit and NEXA's **DRONA
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/hardikjp7/NEXA-DRONA.git
+   git clone https://github.com/NEXA05/DRONA.git
    ```
 
 2. **Navigate to Project Directory:**
